@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab4ProfileManager</string>
+
+    <string name="app_title">Soccer Team Manager</string>
+
+    <string name="name_hint">(Please enter a name)</string>
+
+    <string name="name_label">Team Name</string>
+
+    <string name="address_hint">(Please enter a ZIP code)</string>
+
+    <string name="address_label">Team Address</string>
+
+    <string name="button_text">OPEN IN GOOGLE MAPS</string>
+
+    <string name="new_avatar_title">Select a new avatar</string>
+
+    <string name="new_avatar_button">LOAD FROM PHONE</string>
+
+    <string name="logo_image01">Logo Image 01</string>
+    <string name="logo_image02">Logo Image 02</string>
+    <string name="logo_image03">Logo Image 03</string>
+    <string name="logo_image04">Logo Image 04</string>
+    <string name="logo_image05">Logo Image 05</string>
+    <string name="logo_image00">Logo Image 00</string>
+</resources>
